@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /zayavka/
+Disallow: /zapros/
+Disallow: /privacy-policy/
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-json/
+Disallow: /wp-content/uploads/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /*?
+Disallow: /?s=
+Disallow: /?s=
+Allow: /*.css
+Allow: /*.js
